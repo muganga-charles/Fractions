@@ -1,4 +1,4 @@
 # Fractions
 Dealing with fractions
 ### Fraction.java
-This class contains 
+This class contains the constructor
