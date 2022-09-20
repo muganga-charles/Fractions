@@ -7,7 +7,7 @@ public class Addition {
         System.out.print("Enter numerator one : ");
         numerator1 = input.nextInt();//entry of the numerator of the first fraction
         System.out.print("Enter denominator one : ");
-        denominator1 = input.nextInt();
+        denominator1 = input.nextInt();//entry of the denominator of the first fraction
 
         System.out.print("Enter numerator two : ");
         numerator2 = input.nextInt();
