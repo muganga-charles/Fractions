@@ -17,7 +17,7 @@ public class Addition {
         f1 = new Fraction(numerator1,denominator1);
         f2 = new Fraction(numerator2,denominator2);
 
-        f3 = f1.add(f2);
+        f3 = f1.add(f2);// adds the two fractions
         f4 = f3.simplify();
        // System.out.println("Sum of " + f1.toString() + " and " + f2.toString() + " is " + f3.toString() + "\n the simplified fracton is : " + f4.toString());
 
