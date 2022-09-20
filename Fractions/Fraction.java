@@ -7,7 +7,7 @@ public class Fraction {
 
     private int denominator;
 
-    public Fraction(int num, int deno){
+    public Fraction(int num, int deno){// the constructor
         //setNumerator(num);
         //setDenominator(deno);
         //mordified costructor for negative entries
