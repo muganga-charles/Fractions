@@ -8,9 +8,7 @@ public class Fraction {
     private int denominator;
 
     public Fraction(int num, int deno){// the constructor
-        //setNumerator(num);
-        //setDenominator(deno);
-        //mordified costructor for negative entries
+    
         if (deno < 0) {
             num = -num;
             deno = -deno;
