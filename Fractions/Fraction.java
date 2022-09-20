@@ -3,7 +3,7 @@
  */
 public class Fraction {
 
-    private int numerator;
+    private int numerator;// private members
 
     private int denominator;
 
