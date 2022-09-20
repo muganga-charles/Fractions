@@ -12,7 +12,7 @@ public class Addition {
         System.out.print("Enter numerator two : ");
         numerator2 = input.nextInt();//entry of the numerator of the second fraction
         System.out.print("Enter denominator two : ");
-        denominator2 = input.nextInt();
+        denominator2 = input.nextInt();//entry of the denominator of the second fraction
 
         f1 = new Fraction(numerator1,denominator1);
         f2 = new Fraction(numerator2,denominator2);
