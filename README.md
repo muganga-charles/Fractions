@@ -5,4 +5,4 @@ This class contains the constructor and the private members plus other methods<b
 ### Addition.java
 Allows the user to enter the values of the numerators and the denominator of the fractions<br />
 Adds the fractions together and then prints out the result<br />
-Then simplifies the fraction
+Then simplifies the fraction<br />
