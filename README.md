@@ -7,4 +7,3 @@ Allows the user to enter the values of the numerators and the denominator of the
 Adds the fractions together and then prints out the result<br />
 Then simplifies the fraction<br />
 ### valueEntry.java
-l
